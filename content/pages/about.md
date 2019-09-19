@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: /pages/about
+slug: /pages/about.md
 draft: true
 ---
 My name is Joel Torres a Front End Developer passionate about his work in the field of Web Development and Programming.
