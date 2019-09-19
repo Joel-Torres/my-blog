@@ -1,6 +1,6 @@
 ---
 template: post
-title: Perfecting the Art of Perfection for code
+title: Perfecting the Art of Perfection for coding
 slug: /post/perfecting-the-art-of-perfection/
 draft: false
 date: '2016-09-01T23:46:37.121Z'
