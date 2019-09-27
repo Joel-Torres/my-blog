@@ -1,7 +1,7 @@
 ---
 template: page
 title: Contact me
-slug: j
+slug: /contact
 draft: true
 ---
 You can find me at the following email address joel.torres.dev@gmail.com or the social media links down below.
