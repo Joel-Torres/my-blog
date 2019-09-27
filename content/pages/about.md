@@ -4,7 +4,7 @@ title: About me
 slug: /content/pages/about/
 draft: false
 ---
-My name is Joel Torres a Front End programmer passionate about his work in the field of Web Development and Programming.
+My name is Joel Torres a Front End Developer passionate about his work in the field of Web Development and Programming.
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
